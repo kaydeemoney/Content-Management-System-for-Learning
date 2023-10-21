@@ -1,0 +1,26 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Carlos</td>
+            <td>Costa</td>
+            <td>carloscosta@example.eu</td>
+        </tr>
+        <tr>
+            <td>Antonio</td>
+            <td>Costa</td>
+            <td>antoniocosta@example.eu</td>
+        </tr>
+        <tr>
+            <td>Marcelo</td>
+            <td>Rebelo</td>
+            <td>marcelorebelo@example.eu</td>
+        </tr>
+    </tbody>
+</table>
